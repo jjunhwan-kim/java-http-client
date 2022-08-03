@@ -1,4 +1,4 @@
-package com.example.httpclient.http;
+package com.example.httpclient.http.apache;
 
 import com.example.httpclient.http.dto.UpdateDto;
 import com.fasterxml.jackson.core.JsonProcessingException;
